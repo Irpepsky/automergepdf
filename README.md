@@ -101,3 +101,10 @@ INV.pdf
 **FSN Dev Team**  
 📅 29 Oktober 2025  
 🔖 Version: 1.0.0 — Stable Release
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+Developed with ❤️ by **FSN**
